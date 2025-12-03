@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Imtiyaaz</h1>
-<h3 align="center">A frontend developer with a passion to deepen my knowledge, learn new tech and build functional app/websites that solve problems.</h3>
+<h3 align="center">A frontend developer with a passion to deepen my knowledge, learn new tech and build functional apps and websites that solve problems.</h3>
 
 - 🌱 I’m currently learning **React Native and Three.js**
 
